@@ -4,3 +4,6 @@ MAIL TEST
 make payments
 make another payments
 other payment
+make paymenyts
+second payment
+third payment

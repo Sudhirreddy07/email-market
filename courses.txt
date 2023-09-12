@@ -3,3 +3,4 @@ send email to students
 MAIL TEST
 make payments
 make another payments
+other payment

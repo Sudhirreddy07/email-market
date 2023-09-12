@@ -1,4 +1,5 @@
 aws cloud computing
 send email to students
 MAIL TEST
-make paymenyts
+make payments
+make another payments
